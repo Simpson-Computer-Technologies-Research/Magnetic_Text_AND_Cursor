@@ -13,7 +13,10 @@ const config = {
 			pages: 'build',
 			assets: 'build',
 			fallback: null
-		})
+		}),
+		paths: {
+			base: "/Magnetic_Text_AND_Cursor"
+		}
 	}
 };
 
