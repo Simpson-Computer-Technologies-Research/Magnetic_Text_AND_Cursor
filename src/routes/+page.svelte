@@ -43,7 +43,7 @@
 </script>
 
 <!-- Custom Cursor -->
-<div class="cursor fixed pointer-events-none border-2 border-white p-[0.6rem] rounded-full mix-blend-difference z-10 ease-linear duration-[60ms]"></div>
+<div class="cursor fixed pointer-events-none border-2 border-white p-[0.6rem] rounded-full mix-blend-difference z-10 ease-linear"></div>
 
 <!-- Magnetic Text -->
 <a href="/" class="btn rounded-2xl mt-20 border-white border-2 mx-96 font-black tracking-widest relative flex items-center justify-center cursor-pointer">
